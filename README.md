@@ -17,7 +17,7 @@ Code :
 
   }
   
-  Résultat :
+Résultat :
   
   m2i.java.bdd.Personne@4aa8f0b4
   Alice Alpha
