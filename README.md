@@ -19,7 +19,7 @@ Code :
   
 Résultat :
 
-  m2i.java.bdd.Personne@4aa8f0b4
-  Alice Alpha
-  m2i.java.bdd.Personne@4aa8f0b4
-  Alice Alpha
+    m2i.java.bdd.Personne@4aa8f0b4
+    Alice Alpha
+    m2i.java.bdd.Personne@4aa8f0b4
+    Alice Alpha
